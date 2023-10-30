@@ -1,0 +1,228 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "/image24.png",
+      "name": "Milk",
+      "category": "крем для лица",
+      "price": "790",
+      "weight": "150ml"
+    },
+    {
+      "id": "2",
+      "image": "/image25.png",
+      "name": "Paradise",
+      "category": "минеральная пудра",
+      "price": "590",
+      "weight": "15g"
+    },
+    {
+      "id": "3",
+      "image": "/image26.png",
+      "name": "Sun",
+      "category": "бомбочка для ванны",
+      "price": "90",
+      "weight": "20g"
+    },
+    {
+      "id": "4",
+      "image": "/image27.png",
+      "name": "Violet",
+      "category": "крем для лица",
+      "price": "890",
+      "weight": "50ml"
+    },
+    {
+      "id": "5",
+      "image": "/image28.png",
+      "name": "Clean",
+      "category": "маска для лица",
+      "price": "490",
+      "weight": "100g"
+    },
+    {
+      "id": "6",
+      "image": "/image29.png",
+      "name": "Coconut",
+      "category": "масло для тела",
+      "price": "990",
+      "weight": "300ml"
+    },
+    {
+      "id": "7",
+      "image": "/image30.png",
+      "name": "Lavender",
+      "category": "мыло ручной работы",
+      "price": "290",
+      "weight": "50g"
+    },
+    {
+      "id": "8",
+      "image": "/image31.png",
+      "name": "Lotos",
+      "category": "маска для лица",
+      "price": "890",
+      "weight": "50ml"
+    },
+    {
+      "id": "9",
+      "image": "/image32.png",
+      "name": "Earth",
+      "category": "бомбочка для ванны",
+      "price": "90",
+      "weight": "290ml"
+    },
+    {
+      "id": "10",
+      "image": "/image33.png",
+      "name": "High",
+      "category": "крем для лица",
+      "price": "290",
+      "weight": "50ml"
+    },
+    {
+      "id": "11",
+      "image": "/image34.png",
+      "name": "Rest",
+      "category": "минеральная пудра",
+      "price": "690",
+      "weight": "20"
+    },
+    {
+      "id": "12",
+      "image": "/image35.png",
+      "name": "Rose",
+      "category": "крем для лица",
+      "price": "890",
+      "weight": "50ml"
+    },
+    {
+      "id": "13",
+      "image": "/image24.png",
+      "name": "Milk",
+      "category": "крем для лица",
+      "price": "790",
+      "weight": "150ml"
+    },
+    {
+      "id": "14",
+      "image": "/image25.png",
+      "name": "Paradise",
+      "category": "минеральная пудра",
+      "price": "590",
+      "weight": "15g"
+    },
+    {
+      "id": "15",
+      "image": "/image26.png",
+      "name": "Sun",
+      "category": "бомбочка для ванны",
+      "price": "90",
+      "weight": "20g"
+    },
+    {
+      "id": "16",
+      "image": "/image27.png",
+      "name": "Violet",
+      "category": "крем для лица",
+      "price": "890",
+      "weight": "50ml"
+    },
+    {
+      "id": "17",
+      "image": "/image28.png",
+      "name": "Clean",
+      "category": "маска для лица",
+      "price": "490",
+      "weight": "100g"
+    },
+    {
+      "id": "18",
+      "image": "/image29.png",
+      "name": "Coconut",
+      "category": "масло для тела",
+      "price": "990",
+      "weight": "300ml"
+    },
+    {
+      "id": "19",
+      "image": "/image30.png",
+      "name": "Lavender",
+      "category": "мыло ручной работы",
+      "price": "290",
+      "weight": "50g"
+    },
+    {
+      "id": "20",
+      "image": "/image31.png",
+      "name": "Lotos",
+      "category": "маска для лица",
+      "price": "890",
+      "weight": "50ml"
+    },
+    {
+      "id": "21",
+      "image": "/image32.png",
+      "name": "Earth",
+      "category": "бомбочка для ванны",
+      "price": "90",
+      "weight": "290ml"
+    },
+    {
+      "id": "22",
+      "image": "/image33.png",
+      "name": "High",
+      "category": "крем для лица",
+      "price": "290",
+      "weight": "50ml"
+    },
+    {
+      "id": "23",
+      "image": "/image34.png",
+      "name": "Rest",
+      "category": "минеральная пудра",
+      "price": "690",
+      "weight": "20"
+    },
+    {
+      "id": "24",
+      "image": "/image35.png",
+      "name": "Rose",
+      "category": "крем для лица",
+      "price": "890",
+      "weight": "50ml"
+    },
+    {
+      "id": "25",
+      "image": "/image29.png",
+      "name": "Rose",
+      "category": "крем для лица",
+      "price": "890",
+      "weight": "50ml"
+    },
+    {
+      "id": "26",
+      "image": "/image35.png",
+      "name": "Rose",
+      "category": "крем для лица",
+      "price": "890",
+      "weight": "50ml"
+    },
+    {
+      "id": "27",
+      "image": "/image24.png",
+      "name": "Rose",
+      "category": "крем для лица",
+      "price": "890",
+      "weight": "50ml"
+    },
+    {
+      "id": "28",
+      "image": "/image33.png",
+      "name": "Rose",
+      "category": "крем для лица",
+      "price": "890",
+      "weight": "50ml"
+    }
+  ]
+}
